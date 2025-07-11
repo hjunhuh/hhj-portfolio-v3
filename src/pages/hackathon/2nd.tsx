@@ -1,6 +1,5 @@
 import { css } from "@emotion/react";
-import { ImageGallery, ImageBox } from "../../components/Image";
-import { ProjectBody, ProjectPost } from "../../components/Project";
+import { ProjectBody } from "../../components/Project";
 import { Button } from "../../components/common/Button";
 import { Title, Description } from "../../components/common/Text";
 import { Container } from "../../components/Container";
