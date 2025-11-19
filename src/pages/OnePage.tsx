@@ -79,6 +79,13 @@ function Links() {
         Threads
       </a>
       <a
+        href="https://substack.com/@junhuh"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Substack
+      </a>
+      <a
         href="https://www.facebook.com/dipokalhhj"
         target="_blank"
         rel="noopener noreferrer"
