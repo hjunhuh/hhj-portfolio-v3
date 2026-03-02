@@ -44,7 +44,7 @@ function Links() {
       })}
     >
       <a
-        href="https://github.com/DipokalLab/"
+        href="https://github.com/hjunhuh/"
         target="_blank"
         rel="noopener noreferrer"
       >
