@@ -58,21 +58,21 @@ function Links() {
         LinkedIn
       </a>
       <a
-        href="https://www.instagram.com/hyeongjun.dev/"
+        href="https://www.instagram.com/hjunhuh/"
         target="_blank"
         rel="noopener noreferrer"
       >
         Instagram
       </a>
       <a
-        href="https://x.com/huhhyeongjun"
+        href="https://x.com/hjunhuh"
         target="_blank"
         rel="noopener noreferrer"
       >
         X
       </a>
       <a
-        href="https://www.threads.com/@hyeongjun.dev"
+        href="https://www.threads.com/@hjunhuh"
         target="_blank"
         rel="noopener noreferrer"
       >
